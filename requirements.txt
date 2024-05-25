@@ -1,0 +1,4 @@
+backtrader==1.9.78.123
+matplotlib==3.9.0
+requests==2.32.2
+yfinance==0.2.40
